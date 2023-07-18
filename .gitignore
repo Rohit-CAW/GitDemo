@@ -1,0 +1,5 @@
+error1.log
+error2.log
+error3.log
+*.log
+myfolder/
